@@ -1,6 +1,6 @@
 # MHW_impacts_top_predators
 
-Code to support the publication Welch, H. et al. "Idiosyncratic effects of marine heatwaves on top predators". 
+Code to support the publication Welch, H. et al. "Impacts of marine heatwaves on top predator distributions are variable but predictable". 
 Placeholder for zendo DOI. 
 Code authors: Heather Welch (UCSC/NOAA). 
 
