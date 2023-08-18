@@ -1,6 +1,6 @@
 # MHW_impacts_top_predators
 
-Code to support the publication Welch, H. et al. "Impacts of marine heatwaves on top predator distributions are variable but predictable". 
+Code to support the publication Welch, H. et al. 2023. "Impacts of marine heatwaves on top predator distributions are variable but predictable". Nature Communications. DOI: 10.1038/s41467-023-40849-y  
 [![DOI](https://zenodo.org/badge/437992422.svg)](https://zenodo.org/badge/latestdoi/437992422)   
 Code authors: Heather Welch (UCSC/NOAA). 
 
